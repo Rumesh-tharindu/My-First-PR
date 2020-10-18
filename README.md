@@ -37,3 +37,4 @@ git status
 - Kushantha Charuka
 - Nawodya Jayalath
 - Dilum De Silva
+- Rumesh Amarasinghe
